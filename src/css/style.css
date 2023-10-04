@@ -156,5 +156,6 @@ main{
     translate: .3s ease-in-out;
 }
 .btn:hover{
+    cursor: pointer;
     background: var(--Gradient-1, linear-gradient(180deg, #75F 0%, #6943FF 0.01%, #2F2CE9 100%));
 }

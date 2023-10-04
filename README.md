@@ -35,7 +35,7 @@ Nesse projeto foi bem desafiador centralizar os elementos, mais no fínal deu tu
 ### Links
 
 - Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://wagnerpx.github.io/Results-summary-component/)
 
 ## Autor
 
