@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Results summary component coding challenge](./images/desktop-preview.jpg)
 
 
 ## Índice
@@ -26,15 +26,15 @@ Nesse projeto foi bem desafiador centralizar os elementos, mais no fínal deu tu
 
 ## Pré-visualização Desktop - Ativo
 
-![](/design/active-states.jpg)
+![](/images/active-states.jpg)
 
 ## Pré-visualização Modile
 
-![](/design/mobile-design.jpg)
+![](/images/mobile-design.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/results-summary-component-Fq-epK2xNL)
 - Live Site URL: [Live site URL](https://wagnerpx.github.io/Results-summary-component/)
 
 ## Autor
