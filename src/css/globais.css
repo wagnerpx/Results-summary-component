@@ -1,0 +1,26 @@
+:root{
+                /* Primary */
+
+    --primary-Light: hsl(0, 100%, 67%);
+    --primary-Orangey: hsl(39, 100%, 56%);
+    --primary-Green: hsl(166, 100%, 37%);
+    --primary-Cobal: hsl(234, 85%, 45%);
+
+                /* Gradient */
+
+    --Slate: hsl(252, 100%, 67%);
+    --Royal: hsl(241, 81%, 54%);
+    
+    --Violet-circle: hsla(256, 72%, 46%, 1);
+    --Persian-circle: hsla(241, 72%, 46%, 0);
+
+                /* Neutral */
+
+    --White: hsl(0, 0%, 100%);
+    --Pale: hsl(221, 100%, 96%);
+    --Light: hsl(241, 100%, 89%);
+    --Dark: hsl(224, 30%, 27%);
+
+    --font-family: 'Hanken Grotesk', sans-serif;
+
+}
