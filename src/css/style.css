@@ -93,7 +93,9 @@ main{
 }
 .reacao::before{
     content: '';
-    background: var(--primary-Light) url(/images/iconoir_flash.jpg) no-repeat center;
+    background-image: url(/images/iconoir_flash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
     width: 20px;
     height: 20px;
     margin-left: 16px;
