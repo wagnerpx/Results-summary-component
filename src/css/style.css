@@ -106,7 +106,7 @@ main{
 }
 .memoria::before{
     content: '';
-    background: var(--primary-Orangey) url(/images/iconoir_brain.jpg) no-repeat center;
+    background: url(/images/iconoir_brain.jpg) no-repeat center;
     width: 20px;
     height: 20px;
     margin-left: 16px;
@@ -118,7 +118,7 @@ main{
 }
 .verbal::before{
     content: '';
-    background: var(--primary-Green) url(/images/iconoir_chat-remove.jpg) no-repeat center;
+    background: url(/images/iconoir_chat-remove.jpg) no-repeat center;
     width: 20px;
     height: 20px;
     margin-left: 16px;
@@ -130,7 +130,7 @@ main{
 }
 .visao::before{
     content: '';
-    background: var(--primary-Cobal) url(/images/iconoir_eye-empty.jpg) no-repeat center;
+    background: url(/images/iconoir_eye-empty.jpg) no-repeat center;
     width: 20px;
     height: 20px;
     margin-left: 16px;
