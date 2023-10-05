@@ -94,9 +94,12 @@ main{
 .reacao::before{
     content: '';
     background-image: url(/images/iconoir_flash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
     width: 20px;
     height: 20px;
     margin-left: 16px;
+    display: inline-block;
 }
 .reacao{
     color: #FF5555;
