@@ -93,13 +93,10 @@ main{
 }
 .reacao::before{
     content: '';
-    background-image: url(/images/iconoir_flash.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
+    background: #FF555555 url(/images/iconoir_flash.jpg)no-repeat center;
     width: 20px;
     height: 20px;
     margin-left: 16px;
-    display: inline-block;
 }
 .reacao{
     color: #FF5555;
@@ -107,7 +104,7 @@ main{
 }
 .memoria::before{
     content: '';
-    background-image: url(/images/iconoir_brain.jpg);
+    background: #FFb01e61 url(/images/iconoir_brain.jpg)no-repeat center;
     width: 20px;
     height: 20px;
     margin-left: 16px;
@@ -119,7 +116,7 @@ main{
 }
 .verbal::before{
     content: '';
-    background-image: url(/images/iconoir_chat-remove.jpg);
+    background: #00bb8f8a url(/images/iconoir_chat-remove.jpg)no-repeat center;
     width: 20px;
     height: 20px;
     margin-left: 16px;
@@ -131,7 +128,7 @@ main{
 }
 .visao::before{
     content: '';
-    background-image: url(/images/iconoir_eye-empty.jpg);
+    background: #1125d659 url(/images/iconoir_eye-empty.jpg)no-repeat center;
     width: 20px;
     height: 20px;
     margin-left: 16px;
